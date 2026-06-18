@@ -33,6 +33,8 @@ cargo run
 ```
 No command line arguments; it simply goes through the first 1m primes and checks if they are substring primes. After it prints out the list of primes.
 
+---
+
 ## An Aside
 Also interesting is what 373 means in a broad variety of contexts. 373 refers to:
 - __Angel Number 373__: a message from the angels that you have been doing a wonderful job in your daily life, and have been diligently and optimistically serving your life purpose and soul mission. (Angel numbers are especially interesting, as they seem to mesh numbers into a spiritual context. The phenomenon is called ___apophenia___, the human tendency to perceive meaningful connections, patterns, or intent within random or unrelated data. I prefer the term conspiracy theory).
