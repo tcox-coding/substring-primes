@@ -21,7 +21,9 @@ for each prime
 ```
 Interestingly enough, 373 is the largest possible substring prime. The complete list of substring primes is __2, 3, 5, 7, 23, 37, 53, 73, and 373__.
 
-AI said I should add a run section so here you go.
+1m were checked because the dataset I found had 1m primes and I figured that was good enough for me. I didn't believe AI when it told me there were only 9, thought it misunderstood the question and I'm not a 400k per year prompt engineer so here's some code.
+
+AI also said I should add a run section so here you go.
 
 ## Running the Code
 rustc >= 1.95.0
