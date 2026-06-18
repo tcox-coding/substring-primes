@@ -13,8 +13,12 @@ Example: "373" => 3 is prime, 7 is prime, 37 is prime, and 73 is prime, so:
 - "_73"
 - "373"
 
-are all primes.
-
+are all primes. This is also how the program checks if a prime is a substring prime;
+```
+for each prime
+  get the substrings of that prime
+  check all substrings to see if they all appear in a set of 1m primes
+```
 Interestingly enough, 373 is the largest possible substring prime. The complete list of substring primes is __2, 3, 5, 7, 23, 37, 53, 73, and 373__.
 
 AI said I should add a run section so here you go.
