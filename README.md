@@ -17,6 +17,15 @@ are all primes.
 
 Interestingly enough, 373 is the largest possible substring prime. The complete list of substring primes is __2, 3, 5, 7, 23, 37, 53, 73, and 373__.
 
+AI said I should add a run section so here you go.
+
+## Running the Code
+rustc >= 1.95.0
+
+```bash
+cargo run
+```
+No command line arguments; it simply goes through the first 1m primes and checks if they are substring primes. After it prints out the list of primes.
 
 ## An Aside
 Also interesting is what 373 means in a broad variety of contexts. 373 refers to:
